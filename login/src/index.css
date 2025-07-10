@@ -1,0 +1,13 @@
+
+body {
+  font-family: sans-serif;
+}
+
+input, button {
+  padding: 6px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
